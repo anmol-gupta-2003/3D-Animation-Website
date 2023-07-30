@@ -194,7 +194,7 @@ function files(index) {
      ./img/male0144.png
      ./img/male0145.png
      ./img/male0146.png
-     .//imgmale0147.png
+     ./img/male0147.png
      ./img/male0148.png
      ./img/male0149.png
      ./img/male0150.png
